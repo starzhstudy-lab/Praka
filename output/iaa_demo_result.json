@@ -1,0 +1,8 @@
+{
+  "file": "iaa_demo_filled.csv",
+  "annotated_items": 7,
+  "observed_agreement": 0.8571,
+  "expected_agreement": 0.5306,
+  "cohens_kappa": 0.6957,
+  "note": "Файл заполнен демонстрационно для проверки расчёта. Фактическая IAA требует независимой разметки двумя аннотаторами."
+}

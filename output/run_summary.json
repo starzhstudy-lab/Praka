@@ -1,0 +1,16 @@
+{
+  "theme": "Определения: полнота и формальная записываемость",
+  "records_total": 48,
+  "source_files": {
+    "txt": 0,
+    "pdf": 7
+  },
+  "class_distribution": {
+    "SELF_CONTAINED": 32,
+    "NEEDS_PRIOR_DEF": 16
+  },
+  "output": {
+    "excel": "C:\\Programming\\Praka\\output\\Definitions_Review.xlsx",
+    "json": "C:\\Programming\\Praka\\output\\definitions_dataset.json"
+  }
+}
